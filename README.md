@@ -1,25 +1,18 @@
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 </h1>
+<h2>For this project i used: </h2>
 
 <p align="center">
-For this project i used: </br>
+
     <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vite logo">
     <img width="100px" src="https://vitejs.dev/logo.svg" alt="Vite logo">
     <img width="150px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Vite logo">
   </a>
 </p>
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/363821/screenshots/16396027/media/80aaf3d9d000e6abddcba0c1ed8bde0f.png" width="600" height="300"/>
-</div>
 
 ---
 
