@@ -11,14 +11,14 @@
 </h1>
 
 <p align="center">
-For this project i used:
+For this project i used: </br>
     <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vite logo">
     <img width="100px" src="https://vitejs.dev/logo.svg" alt="Vite logo">
     <img width="150px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Vite logo">
   </a>
 </p>
 <div align="center">
-  <img src="https://dribbble.com/shots/16396027-Nightly-coder-graphic-logo-design/attachments/10008375?mode=media" width="600" height="300"/>
+  <img src="https://cdn.dribbble.com/users/363821/screenshots/16396027/media/80aaf3d9d000e6abddcba0c1ed8bde0f.png" width="600" height="300"/>
 </div>
 
 ---
