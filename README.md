@@ -7,11 +7,9 @@
 <h2>For this project i used: </h2>
 
 <p align="center">
-
     <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vite logo">
     <img width="100px" src="https://vitejs.dev/logo.svg" alt="Vite logo">
     <img width="150px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Vite logo">
-  </a>
 </p>
 
 ---
