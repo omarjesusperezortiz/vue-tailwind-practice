@@ -7,13 +7,37 @@ import { createRouter, createWebHistory } from 'vue-router'
 const routes = [
   { path: '/', 
     component: () => import('../views/Home.vue')},
-  // { path: '/about', component: About },
-  { path: '/contact',
-     component: () => import('../views/Contact.vue') },
-  { path: '/sign-in',
-     component: () => import('../views/SignIn.vue') },
-  { path: '/sign-up',
+
+    {
+      path: '/',
+      redirect: { name: 'Home' }
+    },
+    {
+      path: '/vue-tailwind-practice/',
+      name: 'Home',
+      component: () => import('../views/Home.vue') 
+    },
+    {
+      path: '/contact',
+      component: () => import('../views/Contact.vue') 
+    },
+    { path: '/sign-in',
+    component: () => import('../views/SignIn.vue') 
+    },
+    { path: '/sign-up',
      component: () => import('../views/SignUp.vue') },
+
+
+
+  // { path: '/about', component: About },
+
+
+  // { path: '/contact',
+  //    component: () => import('../views/Contact.vue') },
+  // { path: '/sign-in',
+  //    component: () => import('../views/SignIn.vue') },
+  // { path: '/sign-up',
+  //    component: () => import('../views/SignUp.vue') },
 ]
 
 // 3. Create the router instance and pass the `routes` option
