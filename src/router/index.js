@@ -5,8 +5,8 @@ import { createRouter, createWebHistory } from 'vue-router'
 // Each route should map to a component.
 // We'll talk about nested routes later.
 const routes = [
-  { path: '/', 
-    component: () => import('../views/Home.vue')},
+  // { path: '/', 
+  //   component: () => import('../views/Home.vue')},
 
     {
       path: '/',
@@ -18,13 +18,16 @@ const routes = [
       component: () => import('../views/Home.vue') 
     },
     {
-      path: '/contact',
+      path: '/vue-tailwind-practice/contact',
+      name: 'Contact',
       component: () => import('../views/Contact.vue') 
     },
-    { path: '/sign-in',
+    { path: '/vue-tailwind-practice/sign-in',
+     name: 'SignIn',
     component: () => import('../views/SignIn.vue') 
     },
-    { path: '/sign-up',
+    { path: '/vue-tailwind-practice/sign-up',
+    name: 'SignUp',
      component: () => import('../views/SignUp.vue') },
 
 
